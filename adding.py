@@ -13,3 +13,5 @@ theProduct = num1 * num2
 
 print("the sum is ", theProduct)
 
+theQuotient = num1 / num2
+
